@@ -10,7 +10,7 @@ A little exercise to get started with the specification phase of the software de
 
 * Ruby Zhang - [GitHub profile](https://github.com/yz10113-tech)
 
-* Full Name - [GitHub profile] (link)
+* Joy Song - [GitHub profile] (https://github.com/pancake0003)
 
 ## Stakeholders
 
@@ -35,13 +35,27 @@ A user using the app to have food shared with them.
 * I want my kid to get hot food after school.
 
 
-### Stakeholder: user 2
-A user using the app share food. 
+### Stakeholder: Alice Lu
+A user using the app to share food. 
  
 #### Goals and Needs:
-* 
+- **Reduce food waste** - Need a quick and easy way to share excess food before it spoils
+- **Feel safe and secure** - Need verification systems, reviews, and safety features to trust people picking up food
+- **Save time** - Need streamlined communication and coordination tools to efficiently connect with recipients
+- **Maintain privacy** - Need options to control how much personal information is shared and when
+- **Build trust and community** - Need a reputation system to establish credibility and connect with reliable people
+- **Clear communication** - Need easy ways to specify food details, dietary information, pickup times, and location
+- **Flexible coordination** - Need scheduling tools and notification systems to manage pickup timing
+- **Fair distribution** - Need a system to fairly handle multiple requests when food is in high demand
+- **Positive feedback** - Need recognition and encouragement for contributing to the food-sharing community
 #### Problems and frustrations:
-* 
+- **Safety and trust concerns** - Inviting strangers to their home or sharing their location with unknown people can feel unsafe, especially for first-time users
+- **No-shows and unreliable pickups** - People who express interest in the food may not show up or cancel at the last minute, leaving the user with food that will go to waste
+- **Managing multiple requests** - When posting popular food items, the user may receive many requests and struggle to fairly decide who gets the food or manage multiple conversations
+- **Time pressure and coordination** - Finding someone to pick up the food before it spoils or before the user needs to leave can be stressful and time-sensitive
+- **Privacy concerns** - Sharing personal contact information and home address with strangers raises privacy and security worries
+- **Honest representation challenges** - Accurately describing food conditions, freshness, ingredients, and allergens can be difficult, especially if the user is in a rush
+- **Maintaining profile and reputation** - Keeping their profile updated and building trust within the community requires ongoing effort and commitment
 
 ### Stakeholder: admin
 An administrator of the app. 
@@ -94,27 +108,21 @@ sensitivities.
 
 * As a user using the app to get food, I want to see a map of current offers in my area so that I can decide if and where I want to go and get food.
 
-### USER_2 User Stories:
+### Alice Lu User Stories:
 
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
+- As a **food sharer**, I want to quickly post photos and descriptions of my excess food so that I can find someone to take it before it goes to waste.
+- As a **food sharer**, I want to see ratings and reviews of potential recipients so that I can feel safe about who I'm inviting to my home.
+- As a **food sharer**, I want to set specific pickup time windows so that I can coordinate the exchange around my schedule.
+- As a **food sharer**, I want to clearly label allergens and dietary information so that I can ensure the food goes to someone who can safely eat it.
+- As a **food sharer**, I want to manage multiple pickup requests in one place so that I can fairly decide who gets the food without juggling multiple conversations.
+- As a **food sharer**, I want to receive notifications when someone is interested in my food so that I can respond quickly before the food spoils.
+- As a **food sharer**, I want to control when my address is shared so that I can maintain my privacy until I've confirmed the pickup.
+- As a **food sharer**, I want to see my sharing history and impact so that I can feel good about reducing food waste in my community.
+- As a **food sharer**, I want to easily edit or delete my post so that I can update availability if plans change.
+- As a **food sharer**, I want to communicate through in-app messaging so that I don't have to share my personal phone number immediately.
+- As a **food sharer**, I want to organize community food-sharing events so that I can bring together multiple people and build a stronger local network.
+- As a **food sharer**, I want to save frequent recipients as favorites so that I can quickly connect with trusted community members for future shares.
+- As a **food sharer**, I want to receive feedback after successful pickups so that I can improve my food descriptions and sharing practices.
 
 ### ADMIN User Stories:
 
