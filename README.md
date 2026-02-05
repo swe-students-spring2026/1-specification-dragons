@@ -6,9 +6,9 @@ A little exercise to get started with the specification phase of the software de
 
 * Lily Barchana Lorand - [GitHub profile](https://github.com/lilylorand)
 
-* Full Name - [GitHub profile] (link)
+* Caleb Jawharjian - [GitHub profile](https://github.com/calebjawharjian)
 
-* Full Name - [GitHub profile] (link)
+* Ruby Zhang - [GitHub profile](https://github.com/yz10113-tech)
 
 * Full Name - [GitHub profile] (link)
 
@@ -54,7 +54,7 @@ An administrator of the app.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A community based food sharing app to share meals with your neighbors, connecting people through food.
 
 ## User Requirements
 
