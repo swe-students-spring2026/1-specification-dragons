@@ -4,11 +4,40 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+* Lily Barchana Lorand - [GitHub profile](https://github.com/lilylorand)
+
+* Full Name - [GitHub profile] (link)
+
+* Full Name - [GitHub profile] (link)
+
+* Full Name - [GitHub profile] (link)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Stakeholder: Kamran Patel
+A user using the app to have food shared with them. 
+ 
+#### Goals and Needs:
+* Have an account
+#### Problems and frustrations:
+* 
+
+### Stakeholder: user 2
+A user using the app share food. 
+ 
+#### Goals and Needs:
+* 
+#### Problems and frustrations:
+* 
+
+### Stakeholder: admin
+An administrator of the app. 
+ 
+#### Goals and Needs:
+* 
+#### Problems and frustrations:
+* 
+
 
 ## Product Vision Statement
 
@@ -16,7 +45,71 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+### Kamran Patel User Stories:
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+### USER_2 User Stories:
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+### ADMIN User Stories:
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
+
+* As a [type of user], I want [some goal] so that [some reason].
 
 ## Activity Diagrams
 
