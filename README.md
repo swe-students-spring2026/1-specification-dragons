@@ -18,9 +18,22 @@ A little exercise to get started with the specification phase of the software de
 A user using the app to have food shared with them. 
  
 #### Goals and Needs:
-* Have an account
+* Don’t want to make dinner every night
+* Want a better sense of community in my area
+* Want to experience cuisines I am unfamiliar with
+* More diversity in what I eat
+* Eat healthier
+* More convenience in getting homemade food 
+* Wanting to eat out without breaking the bank
+
 #### Problems and frustrations:
-* 
+* Restaurants are too expensive
+* Having decision fatigue from making up meal ideas every day
+* Don’t have time to prepare well made meals during weeknights
+* Food boredom
+* Logistical issues- like not enough time 
+* I want my kid to get hot food after school.
+
 
 ### Stakeholder: user 2
 A user using the app share food. 
