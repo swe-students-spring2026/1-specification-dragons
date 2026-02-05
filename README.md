@@ -10,7 +10,7 @@ A little exercise to get started with the specification phase of the software de
 
 * Ruby Zhang - [GitHub profile](https://github.com/yz10113-tech)
 
-* Joy Song - [GitHub profile] (https://github.com/pancake0003)
+* Joy Song - [GitHub profile](https://github.com/pancake0003)
 
 ## Stakeholders
 
