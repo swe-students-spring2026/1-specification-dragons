@@ -57,13 +57,24 @@ A user using the app to share food.
 - **Honest representation challenges** - Accurately describing food conditions, freshness, ingredients, and allergens can be difficult, especially if the user is in a rush
 - **Maintaining profile and reputation** - Keeping their profile updated and building trust within the community requires ongoing effort and commitment
 
-### Stakeholder: admin
+### Stakeholder: Alan Ye
 An administrator of the app. 
  
 #### Goals and Needs:
-* 
+* Maintain a safe and trustworthy community environment
+* Ensure every account represents a real individual,
+* Resolve user conflicts fairly and consistently
+* Keep Home and Map pages accurate and up to date
+* Enforce community and platform rules
+
 #### Problems and frustrations:
-* 
+* As usage grows, reviewing posts and handling reports can become time-consuming and repetitive
+* Conflicts between food providers and receivers can be hard to resolve due to limited evidence
+* Excessive administrative power may raise user trust issues, while insufficient power may not be able to deal with issues
+* Risk of physical harm during in-person food pickup: Because food sharing often requires users to meet in person or visit private residences, there is an inherent risk of physical harm, especially for vulnerable users such as women.
+* Inconsistent or incomplete food information provided by users
+* Difficulty in identifying accounts suspected of being AI-generated or impersonating real people
+
 
 
 ## Product Vision Statement
@@ -115,25 +126,17 @@ sensitivities.
 
 ### ADMIN User Stories:
 
-* As a [type of user], I want [some goal] so that [some reason].
+* As an **administrator**, I want to review and verify newly registered user accounts so that I can ensure all users are real individuals and not fake or AI-generated accounts.
+* As an **administrator**, I want to suspend or restrict suspicious accounts so that I can protect the community.
+* As an **administrator**, I want to review food sharing posts to prevent unsafe or misleading food information.
+* As an **administrator**, I want to edit or remove food posts that violate community guidelines so that users are not exposed to potential food safety (allergy) risks..
+* As an **administrator**, I want to receive and manage user reports so that conflicts, harassment, or unsafe situations can be resolved efficiently.
+* As an **administrator**, I want to review user profile history and past moderation records so that I can make fair and consistent decisions.
+* As an **administrator**, I want to remove outdated or invalid food locations from the Map page so that users do not travel to unsafe or nonexistent pickup locations.
+* As an **administrator**, I want to communicate moderation decisions clearly to users so that they understand platform rules and trust the system.
+* As an **administrator**, I want to document moderation actions and incidents so that repeated violations can be identified and handled consistently.
+* As an **administrator**, I want to enforce safety guidelines for in-person food pickup to make sure everyone's safety.
 
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
-
-* As a [type of user], I want [some goal] so that [some reason].
 
 ## Activity Diagrams
 
