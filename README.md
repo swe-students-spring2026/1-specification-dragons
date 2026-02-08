@@ -140,7 +140,8 @@ sensitivities.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+<img width="588" height="1214" alt="swe_p1_uml_diagrams" src="https://github.com/user-attachments/assets/1e7a497a-cfaf-4b5f-bb8b-89f608326b0b" />
 
 ## Clickable Prototype
 
