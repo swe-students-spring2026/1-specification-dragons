@@ -162,4 +162,4 @@ sensitivities.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype] (https://www.figma.com/proto/xUztaTjPBuaO2rzIh3AXk7/dragons-wireframes?page-id=0%3A1&node-id=11-357&p=f&viewport=427%2C173%2C0.13&t=8n3fG4Nqb59TUU8s-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=11%3A357&show-proto-sidebar=1)
