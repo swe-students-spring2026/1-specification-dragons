@@ -85,28 +85,28 @@ A community based food sharing app to share meals with your neighbors, connectin
 
 ### Kamran Patel User Stories:
 
-* As a user using the app to get food, I want to create an account so that I can use the app.
+* As a **food getter**, I want to create an account so that I can use the app.
 
-* As a user using the app to get food, I want to browse food sharing people in my area so that I can have a meal shared with me.
+* As a **food getter**, I want to browse food sharing people in my area so that I can have a meal shared with me.
 
-* As a user using the app to get food, I want to leave a comment on people who have shared with me so that I can thank them.
+* As a **food getter**, I want to leave a comment on people who have shared with me so that I can thank them.
 
-* As a user using the app to get food, I want to view my profile so that I know what my situation is on the app.
+* As a **food getter**, I want to view my profile so that I know what my situation is on the app.
 
-* As a user using the app to get food, I want to see past people who have shared food with me so that I can contact the good ones again.
+* As a **food getter**, I want to see past people who have shared food with me so that I can contact the good ones again.
 
-* As a user using the app to get food, I want to warn myself and others if someone’s food was bad so that I can protect my community.
+* As a **food getter**, I want to warn myself and others if someone’s food was bad so that I can protect my community.
 
-* As a user using the app to get food, I want to see photos of the meal someone is offering so that I can see if I want it.
+* As a **food getter**, I want to see photos of the meal someone is offering so that I can see if I want it.
 
-* As a user using the app to get food, I want to see if someone has certain allergens in their kitchen so that I can accommodate my food 
+* As a **food getter**, I want to see if someone has certain allergens in their kitchen so that I can accommodate my food 
 sensitivities.
 
-* As a user using the app to get food, I want to know if a meal is vegetarian or vegan so that I know if I am eating animal based products.
+* As a **food getter**, I want to know if a meal is vegetarian or vegan so that I know if I am eating animal based products.
 
-* As a user using the app to get food, I want to see photos of other users so that I know who I am interacting with.
+* As a **food getter**, I want to see photos of other users so that I know who I am interacting with.
 
-* As a user using the app to get food, I want to see a map of current offers in my area so that I can decide if and where I want to go and get food.
+* As a **food getter**, I want to see a map of current offers in my area so that I can decide if and where I want to go and get food.
 
 ### Alice Lu User Stories:
 
