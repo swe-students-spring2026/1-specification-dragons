@@ -140,8 +140,25 @@ sensitivities.
 
 ## Activity Diagrams
 
+**UML Activity Diagram for Creating User Account**
+<img width="1000" height="1100" alt="Create User Account (2)" src="https://github.com/user-attachments/assets/c85ea562-bb61-46ac-9797-fe434a943909" />
 
-<img width="588" height="1214" alt="swe_p1_uml_diagrams" src="https://github.com/user-attachments/assets/1e7a497a-cfaf-4b5f-bb8b-89f608326b0b" />
+**UML Activity Diagram for Commenting on a Post**
+<img width="1000" height="1100" alt="Leave User Comment (1)" src="https://github.com/user-attachments/assets/57f7374f-cea5-421a-8f1d-db4e01145335" />
+
+**UML Activity Diagram for Uploading a Post**
+<img width="1000" height="1288" alt="Upload User Post (1)" src="https://github.com/user-attachments/assets/a5d83ff5-4aca-4206-b1d9-bf8d1b567077" />
+
+**UML Activity Diagram for Uploading a Post**
+<img width="1000" height="1200" alt="User In-App Messaging" src="https://github.com/user-attachments/assets/11910856-f563-499a-af4e-44a117e2329c" />
+
+**UML Activity Diagram for Admin Removing Post**
+<img width="1000" height="1250" alt="Admin Post Removal" src="https://github.com/user-attachments/assets/a1f35c94-e8a9-41ca-8b56-2ad889868ead" />
+
+**UML Activity Diagram for Admin Removing Outdated Food Locations**
+<img width="1000" height="1250" alt="Admin Map Pin Removal" src="https://github.com/user-attachments/assets/6a9cd8e4-3166-48dd-9b09-e329c0991e9c" />
+
+
 
 ## Clickable Prototype
 
